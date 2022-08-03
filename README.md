@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Belal Medhat</h1>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <h3 align="center">I am a Front End Web developer (React.js)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belalmedhat76&label=Profile%20views&color=0e75b6&style=flat" alt="belalmedhat76" /> </p>
