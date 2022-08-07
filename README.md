@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **BelalMedhat0102@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17TVs8walvM9slfmduDwUTC5DTfCPLTxy/view?usp=sharing](https://drive.google.com/file/d/17TVs8walvM9slfmduDwUTC5DTfCPLTxy/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/17TVs8walvM9slfmduDwUTC5DTfCPLTxy/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
