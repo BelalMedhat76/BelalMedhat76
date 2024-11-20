@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BelalMedhat76](https://github.com/BelalMedhat76)
 
-- 💬 Ask me about **React.js , JavaScript**
-
 - 📫 How to reach me **BelalMedhat0102@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1aWJkKAsjx7MMa-5TSWEUqEc3uFje5l7b/view
