@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Belal Medhat</h1>
 
-<h3 align="center">I am a Front End Web developer (React.js)</h3>
+<h3 align="center">I am a Front End Web developer (React.js | Next.js)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belalmedhat76&label=Profile%20views&color=0e75b6&style=flat" alt="belalmedhat76" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BelalMedhat76](https://github.com/BelalMedhat76)
+- 👨‍💻 MY Portfolio https://ecommerce-store-ej9hnq6a5-belalmedhat76s-projects.vercel.app/
 
 - 📫 How to reach me **BelalMedhat0102@gmail.com**
 
