@@ -10,7 +10,7 @@
 
 - 👨‍💻 MY Portfolio https://my-portfolio-tau-three-75.vercel.app/
 
-- 📫 How to reach me **BelalMedhat0102@gmail.com**
+- 📫 How to reach me **belalmedhat0102@gmail.com**
 
 - 📄 MY CV  https://drive.google.com/file/d/1dU7poFjcwf5w0uYaESTGgIWC3uWEocG7/view
 
