@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 MY Portfolio https://my-portfolio-tau-three-75.vercel.app/
+- 👨‍💻 MY Portfolio https://belalmyportfolio.netlify.app/
 
 - 📫 How to reach me **belalmedhat0102@gmail.com**
 
