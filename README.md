@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Belal Medhat</h1>
 
-<h3 align="center">I am a Front End Web developer (React.js | Next.js)</h3>
+<h3 align="center">I'm Full Stack Web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belalmedhat76&label=Profile%20views&color=0e75b6&style=flat" alt="belalmedhat76" /> </p>
 
