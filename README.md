@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **belalmedhat0102@gmail.com**
 
-- 📄 MY CV  https://drive.google.com/file/d/1dU7poFjcwf5w0uYaESTGgIWC3uWEocG7/view
+- 📄 MY CV  https://drive.google.com/file/d/17dJHWrvGoVSnGK628yt_67vkP4UOfkj6/view?usp=drivesdk
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
