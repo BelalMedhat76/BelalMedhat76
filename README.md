@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Belal Medhat</h1>
 
-<h3 align="center">I'm Full Stack Web developer.</h3>
+<h3 align="center">I'm Front End Web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belalmedhat76&label=Profile%20views&color=0e75b6&style=flat" alt="belalmedhat76" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **belalmedhat0102@gmail.com**
 
-- 📄 MY CV  https://drive.google.com/file/d/17dJHWrvGoVSnGK628yt_67vkP4UOfkj6/view?usp=drivesdk
+- 📄 MY CV  https://drive.google.com/file/d/1gP-ueEoDwzdAKO3N4BSx7rkAL_zJ5BKj/view
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
